@@ -1,7 +1,9 @@
-# 2a_Stop_and_Wait_Protocol
+# 2A Stop and Wait Protocol
 
-### Name: mohammed ibrahim mn
-### Reg.NO: 212223100034
+## Name: mohammed ibrahim mn
+## Reg.NO: 212223100034
+## date : 26/8/2024
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
